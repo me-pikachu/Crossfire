@@ -1,0 +1,5 @@
+1) Maximum no of players is set to 100 in defaultGame.ini
+	[/Script/Engine.GameSession]
+	MaxPlayers=100
+	Default no of players is 16
+2)
