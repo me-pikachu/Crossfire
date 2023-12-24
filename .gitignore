@@ -1,7 +1,6 @@
-Binaries
-Intermediate
-Saved
-Build\Windows\Crossfire\Binaries
+/Binaries
+/Intermediate
+/Saved
 .vs/Crossfire/v17/ipch/f0e2ac6c721c6c55.ipch
 .vs/Crossfire/v17/Browse.VC.db
 Binaries/Win64/Crossfire.exe
