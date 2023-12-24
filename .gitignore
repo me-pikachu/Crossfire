@@ -7,3 +7,5 @@ Build\Windows\Crossfire\Binaries
 Binaries/Win64/Crossfire.exe
 Build/Windows/Crossfire/Content/Paks/Crossfire-Windows.ucas
 Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+Build/Windows/Crossfire/Binaries/Win64/Crossfire.exe
+Build/Windows/Crossfire/Binaries/Win64/Crossfire.pdb
